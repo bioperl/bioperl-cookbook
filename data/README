@@ -1,0 +1,6 @@
+This directory contains the data that is needed by the different recipes 
+in the BPC.
+Unless otherwise noted the sequences herein are randomly generated and have
+no (indented) biological significance.
+
+  dna50.raw  	- DNA sequence of 50 nucleotides (raw format, only sequencei)
